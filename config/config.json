@@ -1,0 +1,9 @@
+{
+   "user": "username",
+   "pass": "password",
+   "use_env_variable": "development",
+   "datebase": "luckvideo",
+   "username": "root",
+   "password": "123456"
+ 
+}
